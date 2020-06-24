@@ -33,3 +33,5 @@ sudo apt-get -y install xinetd
 
 # pwndbg
 # reset to commitid 351d479
+# pwndbg/pwndbg/commands/context.py
+# show-flags:True show-retaddr: True
