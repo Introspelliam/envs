@@ -31,3 +31,5 @@ echo "set follow-fork-mode child" >> ~/.gdbinit
 sudo apt-get -y install socat
 sudo apt-get -y install xinetd
 
+# pwndbg
+# reset to commitid 351d479
