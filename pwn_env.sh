@@ -32,6 +32,6 @@ sudo apt-get -y install socat
 sudo apt-get -y install xinetd
 
 # pwndbg
-# reset to commitid 351d479
+# reset to commitid fa326d34831
 # pwndbg/pwndbg/commands/context.py
 # show-flags:True show-retaddr: True
