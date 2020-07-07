@@ -35,3 +35,5 @@ sudo apt-get -y install xinetd
 # reset to commitid fa326d34831
 # pwndbg/pwndbg/commands/context.py
 # show-flags:True show-retaddr: True
+# set exception-verbose on
+# set exception-debugger on
