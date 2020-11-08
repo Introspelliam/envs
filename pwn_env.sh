@@ -12,6 +12,9 @@ sudo apt-get -y install libc6-dbg libc6-dbg:i386
 sudo apt-get -y install nmap libseccomp-dev
 sudo apt-get -y install python-pip libssl-dev
 sudo apt-get -y install gdb
+sudo apt-get -y install nodejs-dev node-gyp libssl1.0-dev
+sudo apt-get -y install npm
+
 sudo pip install --upgrade pip
 sudo pip install --upgrade capstone
 sudo pip install --upgrade pwntools
