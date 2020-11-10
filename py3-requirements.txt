@@ -1,0 +1,24 @@
+#pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple py3-requirements.txt --user
+pwntools
+z3
+z3-solver
+pyqt5
+scrypt
+keystone
+pandas
+numpy
+sklearn
+uncompyle
+ansible
+beautifulsoup4
+capstone
+gmpy
+gmpy2
+frida
+frida-tools
+tornado
+requests
+ROPgadget
+paramiko
+ipython
+pyMysql

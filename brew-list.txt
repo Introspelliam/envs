@@ -1,0 +1,16 @@
+# brew install $(< brew-list.txt) 
+autoconf@2.13
+bash-completion
+curl
+wget
+gdb
+git
+git-lfs
+openssh
+mercurial
+mysql
+node
+qemu
+socat
+zsh-completions
+zsh-syntax-highlighting

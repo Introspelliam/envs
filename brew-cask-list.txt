@@ -1,0 +1,2 @@
+# brew cask install $(< brew-cask-list.txt)
+qt-creator
