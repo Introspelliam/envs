@@ -1,0 +1,17 @@
+vmware workstation pro
+ida 7.0
+ubuntu 16.04 虚拟机/18.04虚拟机/20.04虚拟机
+kali 64位虚拟机
+吾爱破解工具包
+python3 依赖包参考py3-...
+python2 依赖包参考py2-..
+jdk 或者 jre
+dnspy
+docker
+git
+xshell+xftp
+sublime text3 或者 vscode 或者 pycharm
+msys2 或者 cygwin
+中国菜刀 或者 cknife
+nmap
+
