@@ -1,7 +1,9 @@
-#pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple py3-requirements.txt --user
+#pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r py3-requirements.txt --user
 pwntools
 z3
 z3-solver
+git+https://github.com/thomasperrot/aes-square-attack@master
+git+https://github.com/hellman/libnum@master
 pyqt5
 scrypt
 keystone

@@ -1,12 +1,12 @@
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple py2-requirements.txt --user
+#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r py2-requirements.txt --user
 pwntools
 zio
 z3
 z3-solver
-pyqt5
 scrypt
+pyrsistent==0.16.0
 keystone
-git+https://github.com/hellman/libnum.git@master
+git+https://github.com/hellman/libnum.git@2af03e4e8efdae68a2bc5189ce8cf0f9113fc6fd
 uncompyle
 sympy
 ansible
@@ -21,6 +21,6 @@ requests
 ROPgadget
 Pillow
 paramiko
-ipython=5.6.0
+ipython==5.6.0
 pyMysql
 unicorn
