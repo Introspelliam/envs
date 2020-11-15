@@ -21,7 +21,7 @@ vim +PluginInstall +qall    # command line install
 :PluginInstall              # install in any vim window
 ```
 
-## mux
+## tmux
 
 ```
 tmux
