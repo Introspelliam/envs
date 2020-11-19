@@ -1,4 +1,4 @@
-#pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r py3-requirements.txt --user
+#python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r py3-requirements.txt --user
 pwntools
 z3
 z3-solver
@@ -24,3 +24,5 @@ ROPgadget
 paramiko
 ipython
 pyMysql
+one_gadget
+ropgadget
