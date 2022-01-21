@@ -21,6 +21,6 @@ requests
 ROPgadget
 Pillow
 paramiko
-ipython==5.6.0
+ipython==7.16.3
 pyMysql
 unicorn
